@@ -21,20 +21,3 @@ Complete modems are available from [the unsigned.io shop](http://unsigned.io/sho
 ## Usage
 
 Please refer to the manual and instructions posted at the [OpenModem page](https://unsigned.io/openmodem/). The default serial connection settings are 115200 baud, 8N1. For configuring the modem, please see the OpenModem Config Utility.
-
-## Support OpenModem Development
-You can help support the continued development of open, free and private communications systems by donating via one of the following channels:
-
-- Monero:
-  ```
-  84FpY1QbxHcgdseePYNmhTHcrgMX4nFfBYtz2GKYToqHVVhJp8Eaw1Z1EedRnKD19b3B8NiLCGVxzKV17UMmmeEsCrPyA5w
-  ```
-- Ethereum
-  ```
-  0xFDabC71AC4c0C78C95aDDDe3B4FA19d6273c5E73
-  ```
-- Bitcoin
-  ```
-  35G9uWVzrpJJibzUwpNUQGQNFzLirhrYAH
-  ```
-- Ko-Fi: https://ko-fi.com/markqvist
